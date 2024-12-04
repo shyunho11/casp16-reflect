@@ -1,3 +1,10 @@
+# data directory
+multimers
+monomers
+csv
+tsv
+png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
